@@ -1,0 +1,8 @@
+name = "joke-proxy"
+main = "cloudflare/joke-proxy.js"
+compatibility_date = "2024-05-19"
+
+[env.production]
+routes = [
+  "cloudflare-project-7ev.pages.dev/api/joke"
+] 
