@@ -1,6 +1,40 @@
 # Cloudflare Project
 
-Este é um projeto React + TypeScript + Vite otimizado para deploy no Cloudflare Pages.
+Este projeto é um portfólio moderno feito em React + Vite + TypeScript, com Material UI (MUI) e animações usando Framer Motion.
+
+## Funcionalidades
+
+- Layout premium, responsivo e centralizado
+- Hero section (perfil) com avatar, gradiente, glassmorphism e animação
+- Seções de Educação, Experiência, Projetos e Contato estilizadas
+- Carrossel de projetos com imagens
+- Botão para download de currículo
+- Dark mode real
+- Animações de entrada e interatividade nos componentes
+- Deploy automático no Cloudflare Pages
+
+## Como rodar localmente
+
+```bash
+npm install
+npm run dev
+```
+
+## Build de produção
+
+```bash
+npm run build
+```
+
+## Deploy
+
+O deploy é feito automaticamente no Cloudflare Pages a cada push na branch `main`.
+
+Acesse em: <https://cloudflare-project-7ev.pages.dev/>
+
+---
+
+Feito com 💙 por Eduardo Wanderley
 
 ## Tecnologias Utilizadas
 
