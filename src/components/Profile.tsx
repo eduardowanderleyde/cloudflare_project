@@ -128,7 +128,7 @@ const Profile = () => {
           <Typography
             variant="body1"
             sx={{
-              color: isDark ? '#f3f4f6' : '#1e293b',
+              color: isDark ? '#1e293b' : '#1e293b',
               maxWidth: 800,
               mx: 'auto',
               fontSize: 20,
